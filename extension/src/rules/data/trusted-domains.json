@@ -1,0 +1,820 @@
+{
+  "Paytm": [
+    "paytm.com",
+    "paytmbank.com",
+    "paytmmoney.com",
+    "mail.paytm.com",
+    "business.paytm.com",
+    "tickets.paytm.com"
+  ],
+
+  "PhonePe": [
+    "phonepe.com",
+    "business.phonepe.com",
+    "insurance.phonepe.com"
+  ],
+
+  "Google Pay": [
+    "pay.google.com",
+    "googlepay.com",
+    "tez.google.com"
+  ],
+
+  "BHIM": [
+    "bhimupi.org.in",
+    "bhimupi.com"
+  ],
+
+  "NPCI": [
+    "npci.org.in",
+    "rupay.co.in",
+    "upi.org.in"
+  ],
+
+  "CRED": [
+    "cred.club",
+    "credgenics.com"
+  ],
+
+  "BharatPe": [
+    "bharatpe.com"
+  ],
+
+  "Razorpay": [
+    "razorpay.com",
+    "razorpay.in"
+  ],
+
+  "PayU": [
+    "payu.in",
+    "payu.com"
+  ],
+
+  "CCAvenue": [
+    "ccavenue.com"
+  ],
+
+  "Cashfree": [
+    "cashfree.com",
+    "cashfreepayments.com"
+  ],
+
+  "Pine Labs": [
+    "pinelabs.com"
+  ],
+
+  "Mobikwik": [
+    "mobikwik.com"
+  ],
+
+  "Freecharge": [
+    "freecharge.in"
+  ],
+
+  "Jio": [
+    "jio.com",
+    "jio.in",
+    "myjio.com",
+    "jiofiber.com",
+    "jiocinema.com",
+    "jiomart.com"
+  ],
+
+  "Airtel": [
+    "airtel.in",
+    "airtel.com",
+    "airtelbank.com",
+    "wynk.in"
+  ],
+
+  "Vi": [
+    "myvi.in",
+    "vodafoneidea.com"
+  ],
+
+  "BSNL": [
+    "bsnl.co.in",
+    "bsnl.in"
+  ],
+
+  "Tata Play": [
+    "tataplay.com"
+  ],
+
+  "Aadhaar": [
+    "uidai.gov.in"
+  ],
+
+  "DigiLocker": [
+    "digilocker.gov.in"
+  ],
+
+  "Income Tax": [
+    "incometax.gov.in",
+    "incometaxindiaefiling.gov.in"
+  ],
+
+  "GST": [
+    "gst.gov.in"
+  ],
+
+  "EPFO": [
+    "epfindia.gov.in",
+    "epfindia.com"
+  ],
+
+  "MCA": [
+    "mca.gov.in"
+  ],
+
+  "Passport Seva": [
+    "passportindia.gov.in"
+  ],
+
+  "Indian Railways": [
+    "indianrail.gov.in",
+    "railwire.co.in"
+  ],
+
+  "IRCTC": [
+    "irctc.co.in",
+    "irctc.com",
+    "air.irctc.co.in"
+  ],
+
+  "NHAI": [
+    "nhai.gov.in"
+  ],
+
+  "FASTag": [
+    "fastag.ihmcl.com"
+  ],
+
+  "Indian Post": [
+    "indiapost.gov.in",
+    "postoffice.gov.in"
+  ],
+
+  "SBI": [
+    "sbi.co.in",
+    "onlinesbi.com",
+    "onlinesbi.sbi",
+    "sbicard.com",
+    "sbilife.co.in",
+    "sbimf.com",
+    "sbiepay.sbi",
+    "sbigeneral.in"
+  ],
+
+  "HDFC Bank": [
+    "hdfcbank.com",
+    "hdfcbank.net",
+    "hdfcbank.in",
+    "mail.hdfcbank.com",
+    "hdfcbanksmartbuy.com",
+    "hdfcergo.com",
+    "hdfcsec.com",
+    "hdfcfund.com",
+    "hdfclife.com",
+    "hdfcpension.com",
+    "hdfcbank.mobi"
+  ],
+
+  "ICICI": [
+    "icicibank.com",
+    "icicibank.co.in",
+    "icicidirect.com",
+    "icicilombard.com",
+    "iciciprulife.com",
+    "icicimail.com"
+  ],
+
+  "Axis Bank": [
+    "axisbank.com",
+    "axisbank.co.in",
+    "axisdirect.in",
+    "axismf.com"
+  ],
+
+  "Kotak": [
+    "kotak.com",
+    "kotakbank.com",
+    "kotakmahindrabank.com",
+    "kotaksecurities.com",
+    "kotaklife.com"
+  ],
+
+  "PNB": [
+    "pnb.co.in",
+    "pnbindia.in"
+  ],
+
+  "Bank of Baroda": [
+    "bankofbaroda.in",
+    "bankofbaroda.com",
+    "bobfinancial.com"
+  ],
+
+  "Canara Bank": [
+    "canarabank.com"
+  ],
+
+  "Union Bank": [
+    "unionbankofindia.co.in"
+  ],
+
+  "Indian Bank": [
+    "indianbank.in"
+  ],
+
+  "Bank of India": [
+    "bankofindia.co.in"
+  ],
+
+  "Central Bank of India": [
+    "centralbankofindia.co.in"
+  ],
+
+  "IDFC First Bank": [
+    "idfcfirstbank.com",
+    "idfcbank.com"
+  ],
+
+  "IndusInd Bank": [
+    "indusind.com",
+    "indusindbank.com"
+  ],
+
+  "Yes Bank": [
+    "yesbank.in",
+    "yesbank.com"
+  ],
+
+  "RBL Bank": [
+    "rblbank.com"
+  ],
+
+  "Federal Bank": [
+    "federalbank.co.in"
+  ],
+
+  "AU Small Finance Bank": [
+    "aubank.in"
+  ],
+
+  "Ujjivan": [
+    "ujjivansfb.in"
+  ],
+
+  "Equitas": [
+    "equitasbank.com"
+  ],
+
+  "NSE": [
+    "nseindia.com",
+    "nseindia.in",
+    "nse.co.in",
+    "connect2nse.com"
+  ],
+
+  "BSE": [
+    "bseindia.com",
+    "bseindia.in"
+  ],
+
+  "SEBI": [
+    "sebi.gov.in"
+  ],
+
+  "NSDL": [
+    "nsdl.com",
+    "nsdl.co.in",
+    "egovnsdl.com",
+    "nsdl.e-gov.in"
+  ],
+
+  "CDSL": [
+    "cdslindia.com",
+    "cdslindia.co.in",
+    "cvlindia.com"
+  ],
+
+  "Zerodha": [
+    "zerodha.com",
+    "zerodha.net",
+    "kite.trade",
+    "console.zerodha.com"
+  ],
+
+  "Groww": [
+    "groww.in"
+  ],
+
+  "Upstox": [
+    "upstox.com"
+  ],
+
+  "Angel One": [
+    "angelone.in",
+    "angelbroking.com"
+  ],
+
+  "5Paisa": [
+    "5paisa.com"
+  ],
+
+  "Dhan": [
+    "dhan.co"
+  ],
+
+  "Motilal Oswal": [
+    "motilaloswal.com"
+  ],
+
+  "IIFL": [
+    "iifl.com",
+    "iiflsecurities.com"
+  ],
+
+  "Sharekhan": [
+    "sharekhan.com"
+  ],
+
+  "LIC": [
+    "licindia.in",
+    "licindia.com",
+    "lichfl.com"
+  ],
+
+  "PolicyBazaar": [
+    "policybazaar.com"
+  ],
+
+  "ACKO": [
+    "acko.com"
+  ],
+
+  "Bajaj Finserv": [
+    "bajajfinserv.in"
+  ],
+
+  "Bajaj Finance": [
+    "bajajfinserv.in",
+    "bajajfinance.in"
+  ],
+
+  "Tata AIA": [
+    "tataaia.com"
+  ],
+
+  "Star Health": [
+    "starhealth.in"
+  ],
+
+  "Flipkart": [
+    "flipkart.com",
+    "mail.flipkart.com",
+    "fkrt.it",
+    "flipkarthealthplus.in"
+  ],
+
+  "Amazon": [
+    "amazon.com",
+    "amazon.in",
+    "amazonpay.in",
+    "amazon.sg",
+    "email.amazon.com",
+    "marketplace.amazon.com"
+  ],
+
+  "Myntra": [
+    "myntra.com"
+  ],
+
+  "Ajio": [
+    "ajio.com"
+  ],
+
+  "Meesho": [
+    "meesho.com"
+  ],
+
+  "Nykaa": [
+    "nykaa.com"
+  ],
+
+  "Snapdeal": [
+    "snapdeal.com"
+  ],
+
+  "IndiaMART": [
+    "indiamart.com"
+  ],
+
+  "Swiggy": [
+    "swiggy.in",
+    "swiggy.com",
+    "swiggygenie.com"
+  ],
+
+  "Zomato": [
+    "zomato.com",
+    "blinkit.com"
+  ],
+
+  "BigBasket": [
+    "bigbasket.com"
+  ],
+
+  "Zepto": [
+    "zeptonow.com"
+  ],
+
+  "DMart": [
+    "dmart.in"
+  ],
+
+  "Ola": [
+    "olacabs.com"
+  ],
+
+  "Uber": [
+    "uber.com"
+  ],
+
+  "Rapido": [
+    "rapido.bike"
+  ],
+
+  "RedBus": [
+    "redbus.in"
+  ],
+
+  "MakeMyTrip": [
+    "makemytrip.com"
+  ],
+
+  "Goibibo": [
+    "goibibo.com"
+  ],
+
+  "Yatra": [
+    "yatra.com"
+  ],
+
+  "EaseMyTrip": [
+    "easemytrip.com"
+  ],
+
+  "Air India": [
+    "airindia.com"
+  ],
+
+  "IndiGo": [
+    "goindigo.in"
+  ],
+
+  "SpiceJet": [
+    "spicejet.com"
+  ],
+
+  "Vistara": [
+    "airvistara.com"
+  ],
+
+  "BlueDart": [
+    "bluedart.com"
+  ],
+
+  "Delhivery": [
+    "delhivery.com"
+  ],
+
+  "DTDC": [
+    "dtdc.in"
+  ],
+
+  "India Post": [
+    "indiapost.gov.in"
+  ],
+
+  "DHL": [
+    "dhl.com",
+    "dhl.co.in"
+  ],
+
+  "FedEx": [
+    "fedex.com"
+  ],
+
+  "WhatsApp": [
+    "whatsapp.com"
+  ],
+
+  "Telegram": [
+    "telegram.org"
+  ],
+
+  "Facebook": [
+    "facebook.com",
+    "fb.com",
+    "facebookmail.com"
+  ],
+
+  "Instagram": [
+    "instagram.com"
+  ],
+
+  "LinkedIn": [
+    "linkedin.com"
+  ],
+
+  "X": [
+    "x.com",
+    "twitter.com"
+  ],
+
+  "YouTube": [
+    "youtube.com"
+  ],
+
+  "Discord": [
+    "discord.com",
+    "discordapp.com"
+  ],
+
+  "Google": [
+    "google.com",
+    "gmail.com",
+    "accounts.google.com",
+    "google.co.in",
+    "googlemail.com"
+  ],
+
+  "Microsoft": [
+    "microsoft.com",
+    "outlook.com",
+    "office.com",
+    "office365.com",
+    "live.com",
+    "hotmail.com",
+    "azure.com"
+  ],
+
+  "Apple": [
+    "apple.com",
+    "icloud.com",
+    "appleid.apple.com"
+  ],
+
+  "Netflix": [
+    "netflix.com"
+  ],
+
+  "Spotify": [
+    "spotify.com"
+  ],
+
+  "Adobe": [
+    "adobe.com"
+  ],
+
+  "GitHub": [
+    "github.com",
+    "github.io"
+  ],
+
+  "OpenAI": [
+    "openai.com",
+    "chatgpt.com"
+  ],
+
+  "AWS": [
+    "aws.amazon.com",
+    "amazonaws.com"
+  ],
+
+  "Cloudflare": [
+    "cloudflare.com"
+  ],
+
+  "Vercel": [
+    "vercel.com"
+  ],
+
+  "Netlify": [
+    "netlify.com"
+  ],
+
+  "Render": [
+    "render.com"
+  ],
+
+  "Hostinger": [
+    "hostinger.com",
+    "hostinger.in"
+  ],
+
+  "GoDaddy": [
+    "godaddy.com",
+    "secureserver.net"
+  ],
+
+  "Namecheap": [
+    "namecheap.com"
+  ],
+
+  "Shopify": [
+    "shopify.com",
+    "myshopify.com"
+  ],
+
+  "Stripe": [
+    "stripe.com"
+  ],
+
+  "Binance": [
+    "binance.com",
+    "binance.us"
+  ],
+
+  "Coinbase": [
+    "coinbase.com"
+  ],
+
+  "Kraken": [
+    "kraken.com"
+  ],
+
+  "Bybit": [
+    "bybit.com"
+  ],
+  "SBI Mutual Fund": [
+    "sbimf.com"
+  ],
+
+  "HDFC Mutual Fund": [
+    "hdfcfund.com"
+  ],
+
+  "ICICI Prudential Mutual Fund": [
+    "icicipruamc.com"
+  ],
+
+  "Nippon India Mutual Fund": [
+    "nipponindiamf.com"
+  ],
+
+  "Axis Mutual Fund": [
+    "axismf.com"
+  ],
+
+  "Kotak Mutual Fund": [
+    "kotakmf.com"
+  ],
+
+  "Aditya Birla Sun Life Mutual Fund": [
+    "mutualfund.adityabirlacapital.com"
+  ],
+
+  "UTI Mutual Fund": [
+    "utimf.com"
+  ],
+
+  "DSP Mutual Fund": [
+    "dspim.com"
+  ],
+
+  "Mirae Asset Mutual Fund": [
+    "miraeassetmf.co.in"
+  ],
+
+  "Franklin Templeton India": [
+    "franklintempletonindia.com"
+  ],
+
+  "Canara Robeco": [
+    "canararobeco.com"
+  ],
+
+  "Tata Mutual Fund": [
+    "tatamutualfund.com"
+  ],
+
+  "Sundaram Mutual": [
+    "sundarammutual.com"
+  ],
+
+  "Invesco Mutual Fund": [
+    "invescomutualfund.com"
+  ],
+
+  "Quant Mutual Fund": [
+    "quantmutual.com"
+  ],
+
+  "PGIM India Mutual Fund": [
+    "pgimindiamf.com"
+  ],
+
+  "Mahindra Manulife Mutual Fund": [
+    "mahindramanulife.com"
+  ],
+
+  "Baroda BNP Paribas Mutual Fund": [
+    "barodabnpparibasmf.in"
+  ],
+
+  "Edelweiss Mutual Fund": [
+    "edelweissmf.com"
+  ],
+
+  "LIC Mutual Fund": [
+    "licmf.com"
+  ],
+
+  "JM Financial Mutual Fund": [
+    "jmfinancialmf.com"
+  ],
+
+  "Trust Mutual Fund": [
+    "trustmf.in"
+  ],
+
+  "Samco Mutual Fund": [
+    "samcomf.com"
+  ],
+
+  "Groww Mutual Fund": [
+    "groww.in"
+  ],
+
+  "ET Money": [
+    "etmoney.com"
+  ],
+
+  "INDmoney": [
+    "indmoney.com"
+  ],
+
+  "Kuvera": [
+    "kuvera.in"
+  ],
+
+  "Coin by Zerodha": [
+    "coin.zerodha.com"
+  ],
+
+  "Paytm Money": [
+    "paytmmoney.com"
+  ],
+
+  "Nuvama": ["nuvama.com"],
+  "MStock": ["mstock.com"],
+  "TradeSmart": ["tradesmartonline.in"],
+  "Fyers": ["fyers.in"],
+  "Choice Broking": ["choiceindia.com"],
+  "Alice Blue": ["aliceblueonline.com"],
+  "Angel Broking": ["angelbroking.com"],
+  "AMFI": ["amfiindia.com"],
+  "CAMS": ["camsonline.com"],
+  "KFintech": ["kfintech.com", "kfintechservices.com"],
+  "MFCentral": ["mfcentral.com"],
+  "CRISIL": ["crisil.com"],
+  "CARE Ratings": ["careratings.com"],
+  "ICRA": ["icra.in"],
+  "IndiaBonds": ["indiabonds.com"],
+  "GoldenPi": ["goldenpi.com"],
+  "Wint Wealth": ["wintwealth.com"],
+  "Grip Invest": ["gripinvest.in"],
+  "Stable Money": ["stablemoney.in"],
+  "Jupiter": ["jupiter.money"],
+  "Fi Money": ["fi.money"],
+  "Niyo": ["niyo.com"],
+  "FamPay": ["fampay.in"],
+  "Slice": ["sliceit.com"],
+  "OneCard": ["getonecard.app"],
+  "LazyPay": ["lazypay.in"],
+  "Kissht": ["kissht.com"],
+  "MoneyTap": ["moneytap.com"],
+  "Tata Capital": ["tatacapital.com"],
+  "Aditya Birla Capital": ["adityabirlacapital.com"],
+  "L&T Finance": ["ltfs.com"],
+  "Muthoot Finance": ["muthootfinance.com"],
+  "Manappuram": ["manappuram.com"],
+  "Shriram Finance": ["shriramfinance.in"],
+  "Mahindra Finance": ["mahindrafinance.com"],
+  "Poonawalla Fincorp": ["poonawallafincorp.com"],
+  "LIC Housing Finance": ["lichousing.com"],
+  "Aavas": ["aavas.in"],
+  "Home First Finance": ["homefirstindia.com"],
+  "PaisaBazaar": ["paisabazaar.com"],
+  "BankBazaar": ["bankbazaar.com"],
+  "Digit Insurance": ["godigit.com"],
+  "Turtlemint": ["turtlemint.com"],
+  "Coverfox": ["coverfox.com"],
+  "Niva Bupa": ["nivabupa.com"],
+  "Care Health": ["careinsurance.com"],
+  "PhonePe Insurance": ["phonepe.com"],
+  "Paytm Insurance": ["paytm.com"]
+}
