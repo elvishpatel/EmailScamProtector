@@ -51,7 +51,7 @@ Email phishing is the #1 attack vector targeting elderly users. Scammers imperso
 | 🧠 **Hybrid AI + Rules Engine** | 8 local detection rules + Gemini 2.5 Flash AI for nuanced analysis |
 | 🎯 **Phishing Link Detection** | Catches the #1 phishing pattern: credential language + unrelated link domains |
 | 👤 **Sender Trust System** | Distinguishes corporate senders (HDFC Bank) from personal email (Gmail/Yahoo) |
-| 🏦 **120+ Trusted Brands** | Extensive verified domain database for Indian & global banks, brokers, fintech |
+| 🏦 **200+ Trusted Brands** | Extensive verified domain database for Indian & global banks, brokers, fintech |
 | 🔗 **URL Deep Analysis** | Detects URL shorteners, punycode, IP-based URLs, suspicious TLDs, display mismatches |
 | 🛡️ **Shadow DOM Warning Panel** | Injected directly into Gmail with complete CSS isolation |
 | 📊 **5-Level Risk Scoring** | Safe → Low → Suspicious → High → Dangerous with color-coded UI |
@@ -152,8 +152,7 @@ Email from gmail.com claiming to be Google Support?
 **Key distinction:** Public email providers (Gmail, Yahoo, Outlook) are **never** treated as trusted corporate senders — because anyone can send from them. Only corporate-controlled domains (hdfcbank.com, nseindia.com, chase.com) get the trust bonus.
 
 ### Trusted Domain Database
-
-120+ verified brands with all known sending domains:
+210+ verified brands with all known sending domains:
 
 - **Indian Banks:** HDFC (7 domains), SBI, ICICI, Axis, Kotak, PNB, IndusInd, Yes Bank, IDFC First, Federal Bank, RBL
 - **Global Banks:** Chase, Wells Fargo, Bank of America, Citibank, HSBC, Barclays, Standard Chartered
@@ -293,7 +292,7 @@ email-scam-protector/
 │   │   │   │   ├── formatting.ts        # Generic greetings, short click-bait
 │   │   │   │   └── index.ts            # Rule registry
 │   │   │   └── data/               # Detection Databases
-│   │   │       ├── trusted-domains.json  # 120+ brands, 400+ domains
+│   │   │       ├── trusted-domains.json  # 210+ brands, 400+ domains
 │   │   │       ├── scam-phrases.json
 │   │   │       ├── scam-domains.json
 │   │   │       └── urgency-words.json
